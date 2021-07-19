@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Ekipa2EmployeesTest</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="employees_title">Employees</string>
+    <string name="add_employee_title">Add Employee</string>
+    <string name="employees_analytics_title">Employees analytics</string>
+    <string name="name_search_hits_title">Search hits</string>
+    <string name="button_save">Save</string>
+    <string name="add_employee">Add employee</string>
+    <string name="empty_fields_error">All fields are required</string>
+    <string name="name_hint">Name</string>
+    <string name="birth_date_hint">Date of birth</string>
+    <string name="gender_hint">Gender</string>
+    <string name="salary_hint">Salary</string>
+    <string name="average_age_hint">Average age</string>
+    <string name="median_age_hint">Median age</string>
+    <string name="max_salary_hint">Max salary</string>
+    <string name="mf_ratio_hint">Male female ratio</string>
+    <string name="search_select">Select employee</string>
+    <string name="search_results">Search results</string>
+    <string name="search_results_second">Second search results</string>
+</resources>
